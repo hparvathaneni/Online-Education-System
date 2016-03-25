@@ -1,8 +1,7 @@
 # Online-Education-System
-class educationsystem
-{
-public static void main(String args[])
-{
-System.out.println("this is our online education system project");
+#inlcude<Stdio.h>
+#inlcude<Conio.h>
+void main(){
+  printf("Online Education System");  
 }
-}
+
